@@ -9,7 +9,7 @@
     "build": "tsc ./src/client.ts"
   },
   "dependencies": {
-    "@langchain/core": "0.1.57",
+    "@langchain/core": "0.3.80",
     "@langchain/groq": "^0.0.8",
     "@t3-oss/env-core": "^0.8.0",
     "@types/common-tags": "^1.8.4",
